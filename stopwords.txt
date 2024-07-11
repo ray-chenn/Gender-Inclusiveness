@@ -16,7 +16,7 @@ its
 itself
 they
 them
-their
+theirf
 theirs
 themselves
 what
@@ -130,7 +130,7 @@ male
 brother
 sons
 fathers
-men
+masculinity
 boys
 males
 brothers
@@ -199,7 +199,7 @@ female
 sister
 daughters
 mothers
-women
+femininity
 girls
 females
 sisters
