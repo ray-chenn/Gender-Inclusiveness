@@ -9,6 +9,8 @@ Installing Jupyter Notebook
   To run, execute: jupyter notebook
   It is recommended you save a shortcut for that specific directory as that workspace can only be accessed through running jupyter notebook there.
 
+For a beginner's guide to Jupyter Notebook: https://www.youtube.com/watch?v=5pf0_bpNbkw
+
 Installing plug-ins for program
   Execute:
   pip install openai
