@@ -14,6 +14,7 @@ For a beginner's guide to Jupyter Notebook: https://www.youtube.com/watch?v=5pf0
 Installing plug-ins for program
   Execute:
   pip install openai
+  pip install openai==0.28
   python -m venv openai_venv
   python -m ipykernel install --user --name openai_kernel
   pip install numpy
