@@ -49,3 +49,5 @@ OpenAI
     When running a new file, select the top cell and keep clicking the single arrow pointing to the right to run. The next cell will be autoselected.
     Cells which involve usage of openai will take a few seconds to execute. If you are curious of the parts of context involved within the calculation, you can         access the following files out of curiosity: evaluate.txt, feminine.txt, masculine.txt, neutral.txt, verify.txt.
     The output from the final cell of Finalize will tell you if the text is more associable by men or women.
+
+For additional documentation on the justification of our algorithms and more in-depth guides: visit https://docs.google.com/document/d/1eUJSc6N3ZbKVVHEZnq9arCM5j2VVQah9irLOzMxz3nw/edit?usp=sharing
